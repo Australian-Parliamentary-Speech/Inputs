@@ -1,0 +1,1039 @@
+<hansard xsi:noNamespaceSchemaLocation="../../hansard.xsd" version="2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <session.header>
+        <date>1970-03-04</date>
+        <parliament.no>27</parliament.no>
+        <session.no>2</session.no>
+        <period.no>1</period.no>
+        <chamber>SENATE</chamber>
+        <page.no>27</page.no>
+        <proof>0</proof>
+    </session.header>
+    <chamber.xscript>
+        <business.start>
+            <day.start>1970-03-04</day.start>
+            <para>The <inline font-weight="bold">PRESIDENT (Senator the Hon. Sir Auster McMullin)</inline> took the chair at 3 p.m., and read prayers. </para>
+        </business.start>
+        <debate>
+            <debateinfo>
+                <title>QUESTIONS</title>
+                <page.no>27</page.no>
+                <type>Questions</type>
+            </debateinfo>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>F111 AIRCRAFT</title>
+                    <page.no>27</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>27</page.no>
+                            <time.stamp />
+                            <name.id>1L5</name.id>
+                            <electorate />
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">MURPHY, Lionel</name>
+                            <name role="display">Senator Murphy</name>
+                        </talker>
+                        <para>My question is directed to the Minister for Air. Does the Minister recall the resolution of the Senate last year that it was of the opinion that the Government had mishandled the purchase of Fill aircraft? Will the Minister tell us what is the latest position in this grossly mishandled affair?</para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>44</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate />
+                            <party>CP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>I would like to begin where the Leader of the Opposition finished and say that I do not think that the affair is grossly mishandled. There have been some problems with the project, but we hope they will be ironed out. On 22nd December last, when an PI IIA crashed near the Nellis field of the United States Air Force during a rocketry exercise, all FI 11 aircraft were grounded. The United States Air Force immediately began a detailed investigation into the cause of the crash. In conjunction with the manufacturers of the aircraft and scientists the United States Air Force has been conducting a most thorough investigation. Our own scientists and members of the Royal Australian Air Force are in continuous consultation with the United States Air Force. I can assure the Senate that we are being kept informed of developments by our project manager in the United States and by our scientists.</para>
+                    </talk.start>
+                    <para>We are aware that the United States Air Force has certain proposals for the recovery of FIJI aircraft from their present grounded state, but we are not in possession of complete details of those proposals at this stage. We hope that very shortly the full details will be put before us. Until I know those complete details I fee) that it would be unwise for me to comment any further. </para>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>BLACK ARROW LAUNCHING</title>
+                    <page.no>27</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>27</page.no>
+                            <time.stamp />
+                            <name.id>JTT</name.id>
+                            <electorate>SOUTH AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DAVIDSON, Gordon</name>
+                            <name role="display">Senator DAVIDSON</name>
+                        </talker>
+                        <para>- Can the Minister for Supply give me any information about the report in South Australia that there has been a launching of a Black Arrow space vehicle? Can the Minister say if and when the launching took place and whether it was successful? </para>
+                    </talk.start> 
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>27</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate>NEW SOUTH WALES</electorate>
+                            <party>LP</party>
+                            <role>Minister for Supply</role>
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- I am bound to admit that I encouraged Senator Davidson to ask this question because it concerns special information of current, importance. It is true that a United Kingdom Black Arrow satellite launch vehicle was successfully flight tested today from the Department of Supply's Weapons Research Establishment range at Woomera. Today's was the second of three developmental firings aimed at proving the rocket's ability to inject satellites into the close earth orbit. The present trial proved the structure of the three stage vehicle and demonstrated satisfactory performance of the liquid rocket motors in the first and second stages. The performance of all third stage systems was also tested, except for the propulsion system which will be used in subsequent launchings to inject the satellite accurately into orbit. The first launch took place on 28th June last when the vehicle had to be destroyed after 1 minute due to a technical failure. The next launch, which is planned for about mid-1970, will use a live third stage motor and will attempt to put a test satellite into the near polar orbit. The Black Arrow project is managed by the British Ministry of Technology. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>OIL POLLUTION</title>
+                    <page.no>27</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>27</page.no>
+                            <time.stamp />
+                            <name.id>KPG</name.id>
+                            <electorate>QUEENSLAND</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">KEEFFE, James</name>
+                            <name role="display">Senator KEEFFE</name>
+                        </talker>
+                        <para>- Is the Minister for Air aware thai a 58,000-ton oil tanker was grounded after striking a reef in Torres Strait on Tuesday, 3rd March? Can the Minister advise the Parliament whether Royal Australian Air Force surveys are being carried out on the northern part of the Great Barrier Reef to ensure that speedy action may be taken if oil from the damaged tanker reaches this area? If the surveys are not being carried out, why are they not, in view of the fact that an RAAF base is situated at Townsville? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>27</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate>WESTERN AUSTRALIA</electorate>
+                            <party>CP</party>
+                            <role>Minister for Air</role>
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>- I can do better than advise the honourable senator whether or not surveys are being carried out. The Royal Australian Air Force has taken action already. At the request of the Department of Shipping and Transport, a Hercules aircraft was despatched from Eagle Farm last night It carried 10 tons of detergent and spraying equipment. It went to Horn Island which, I understand, is close to Thursday Island and which is the landing strip for Thursday Island. A second Hercules is scheduled to take off from East Sale this afternoon. It will call at Fairbairn to pick up 9 pressmen and then will go to Townsville to refuel and then across to Horn Island. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>OIL POLLUTION</title>
+                    <page.no>28</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>28</page.no>
+                            <time.stamp />
+                            <name.id>KQV</name.id>
+                            <electorate>QUEENSLAND</electorate>
+                            <party>CP; NCP from May 1975</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">LAWRIE, Alexander</name>
+                            <name role="display">Senator LAWRIE</name>
+                        </talker>
+                        <para>- I direct a question to the Minister representing the Minister for Shipping and Transport. In view of the great potential hazard posed by the passage of big oil tankers in Great Barrier Reef and other coastal waters, as shown by yesterday's incident off Cape York, will the Government investigate the possibility of introducing legislation requiring the owners of tankers trading to Australian ports to lodge a substantial bond to cover possible damage to Australian coastal industries, to seaside resorts and to marine life off the Australian coast? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>28</page.no>
+                            <time.stamp />
+                            <name.id>JQR</name.id>
+                            <electorate>NEW SOUTH WALES</electorate>
+                            <party>LP</party>
+                            <role>Minister for Civil Aviation</role>
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">COTTON, Bob</name>
+                            <name role="display">Senator COTTON</name>
+                        </talker>
+                        <para>- One does not read of such incidents without becoming concerned. Since this happened, I have tried to obtain information that I thought might aid me in answering questions asked by honourable senators. I have what I think is a fairly well considered statement in relation to the question posed by Senator Lawrie. A number of tanker owners have entered into a voluntary arrangement known as TOVALOP under which they agreed to compensate governments for oil spillage damage which their vessels cause. This does not cover all tankers. The Australian Government recently participated in the drawing up of an international convention known as the Convention for Civil Liability for Oil Pollution Damage. This Convention will impose more substantial liability on tanker owners than applies at present and, in particular, will include a requirement that tankers carrying 2,000 tons of oil in bulk as cargo are to have appropriate insurance or other financial security to cover any potential damage. Under this scheme a certificate, indicating that the cover exists, will be issued by the State in which the tanker is registered and participating States will not allow a tanker without such cover to enter their ports. It is thought that such a scheme will be more practical and satisfactory than a system of bonds. Until a sufficient number of countries ratify the Convention it will not be operative. Probably it will be 2 or 3 years before it becomes effective. However, various States, under separate pollution legislation, can claim the cost of cleaning operations from tanker owners. I will direct the honourable senator's question to the Minister in the other place and ask him for any additional information which he might have which would aid in giving the honourable senator an answer more satisfactory than mine. I assure the honourable senator that the information will be provided to him as soon as possible. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>F111 AIRCRAFT</title>
+                    <page.no>28</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>28</page.no>
+                            <time.stamp />
+                            <name.id>KTA</name.id>
+                            <electorate>NEW SOUTH WALES</electorate>
+                            <party>ALP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">MCCLELLAND, Douglas</name>
+                            <name role="display">Senator Douglas McClelland</name>
+                        </talker>
+                        <para>- My question  is directed to the Minister for Air. Has the Minister's attention been drawn to a recent report that the storage of Australia's twenty-four F111 aircraft in the United States is costing Australia $1,700 a day in addition to the actual purchase price? Is this report correct? If not, what is the amount per day that Australia is paying for the storage of these aircraft? Is it also correct that scientists examining the cracks that have occurred in the vital parts of the aircraft cannot agree on whether or not the metal structure will stand up to the stresses of fatigue involved? In view of the enormous cost to Australia and the long delay that obviously is taking place in securing delivery of the aircraft, will the Government be prepared to re-examine its present attitude towards securing delivery of these aircraft from the United States? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>28</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate />
+                            <party>CP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>- The first part of the honourable senator's question refers to storage. This is a matter concerning which Senator Toohey asked me a question in the 1 day sessional period on 25th November last year. I told Senator Toohey then that we were having discussions with America on this subject and that no firm decision had been arrived at and that I could not go any further than that. </para>
+                    </talk.start>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>28</page.no>
+                                <time.stamp />
+                                <name.id>KTA</name.id>
+                                <electorate></electorate>
+                                <party>ALP</party>
+                                <role></role>
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">MCCLELLAND, Douglas</name>
+                                <name role="display">Senator Douglas McClelland</name>
+                            </talker>
+                            <para>- That was last November. What is the position today? </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>28</page.no>
+                                <time.stamp />
+                                <name.id>JXR</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                                <name role="display">Senator DRAKE-BROCKMAN</name>
+                            </talker>
+                            <para>- That is still the position. In regard to the second part of the question, there are two proposals that have been put forward for proving the D6AC metal. It is true that the scientists differ on this matter, and this is why I said to Senator Murphy a minute ago that we have had no firm proposals to date. Until such time as we do have firm proposals and know about the two methods involved I cannot go further. We would want to know the engineering reasons behind the two proposals for proving these aircraft to get them ungrounded, and we would want to know their impact on the scheduled delivery date. Until we do know those answers we cannot do anything further. </para>
+                        </talk.start>
+                    </continue>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>INTERSTATE TRAVEL</title>
+                    <page.no>29</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>K3O</name.id>
+                            <electorate>SOUTH AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">BUTTFIELD, Nancy</name>
+                            <name role="display">Senator BUTTFIELD</name>
+                        </talker>
+                        <para>- I ask the Minister for Civil Aviation whether he is aware of a new scheme which has been introduced by Trans-Australia Airlines and Ansett Airlines of Australia which affects passengers needing to travel from one capital city through a second to reach a third? Is he aware that in such a case, if the passenger decides to break his journey at the intermediate point before proceeding to his final destination he is compelled to pay extra? By way of explanation, may I point out that a passenger going from Canberra through Sydney to Adelaide has to pay $12 more to break his journey at Sydney. As residents of South Australia wishing to reach Sydney or parts beyond are already grossly disadvantaged by the scarcity of scheduled flights from Adelaide as compared with residents of Melbourne and Sydney, who have at least two flights every hour between those two cities, will the Minister take urgent action to have this discriminator)' penalty charge eliminated forthwith? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>JQR</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">COTTON, Bob</name>
+                            <name role="display">Senator COTTON</name>
+                        </talker>
+                        <para>- I thank the honourable senator for that question. I was not aware of this new arrangement. I shall make urgent and immediate inquiries to see what I can find out and what 1 can do to remedy the situation. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>VIETNAM</title>
+                    <page.no>29</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>7V4</name.id>
+                            <electorate>QUEENSLAND</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">GEORGES, George</name>
+                            <name role="display">Senator GEORGES</name>
+                        </talker>
+                        <para>- I would like to direct a question to the Leader of the Government in the Senate. Are the people of Australia being made the victims of a hoax in South Vietnam? Is the withdrawal of American troops from Vietnam and the proposed withdrawal of Australian troops a Trojan horse operation to deceive those who strongly oppose and protest against the war? Is it not a fact that contrary to the impression created by the withdrawal, military operations in Vietnam have been intensified - including the activities of Australian troops, resulting in the tragic increase in casualties which has just been announced? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- The assumptions made by the honourable senator are quite inconsistent with the facts as I know them and indeed as stated by  His Excellency  the Governor-General in his Speech from the Throne in this place yesterday.  His Excellency  quite clearly pointed out that to the extent that there will be future withdrawals of troops from Vietnam by the United States consideration will be given to the withdrawal of Australian forces. It is quite unreal, indeed it shows a lack of appreciation of the problems of war, to pick out in isolation a very sad incident in a war which we all regret is costing lives. </para>
+                    </talk.start>
+                    <para>As I understand it, the tragedy which occurred a few days ago was an isolated incident which did regrettably cost lives; but to try to bring that into the main argument as to future planning of the war, I repeat, is quite unreal and, with great respect, shows a complete lack of understanding of the problems of the Vietnam conflict. The answer to the honourable senator's question as to the Government's intention in this matter is contained in the Governor-General's Speech. </para>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>TELEVISION</title>
+                    <page.no>29</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>KRG</name.id>
+                            <electorate>TASMANIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">LILLICO, Alexander</name>
+                            <name role="display">Senator LILLICO</name>
+                        </talker>
+                        <para>- I ask the Minister representing the Postmaster-General a question which stems from the great dissatisfaction of King Island residents with television services. Is the Minister in a position to say when the proposed relay station for King Island will be established? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>29</page.no>
+                            <time.stamp />
+                            <name.id>K28</name.id>
+                            <electorate />
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">RANKIN, Annabelle</name>
+                            <name role="display">Senator Dame ANNABELLE RANKIN</name>
+                        </talker>
+                        <para>- The honourable senator has spoken to me about this matter before and I have been able to get him some information from the Postmaster-General. Firstly, all technical planning for the television transmitting station on Gentle Annie and for the microwave radio relay system from Smithtown via Three Hummocks Island to King Island has been completed. </para>
+                    </talk.start>
+                    <para>The next piece of information I have is that following receipt of offers for the microwave radio equipment, a contract will be issued over the next week. This will require delivery of the equipment from the overseas factory during April 19711 This is the best delivery offer that has been received, and with air freighting of the equipment it will be possible to commence installation during June 1971. The remaining equipment for the television transmitting station, and the aerials and towers, are expected to be delivered and installed before June 1971. At the present rate of progress we expect the new service to be completed between July and September 1971, but this target will be reviewed early in 1971 in the light of the progress of delivery of materials and installation work. If I can get any further information I will puss it on to the honourable senator. </para>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>TELEPHONE SERVICES</title>
+                    <page.no>30</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>30</page.no>
+                            <time.stamp />
+                            <name.id>KB9</name.id>
+                            <electorate>WESTERN AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">WILKINSON, Lawrence</name>
+                            <name role="display">Senator WILKINSON</name>
+                        </talker>
+                        <para>- I direct a question to the Minister representing the Postmaster-General. The Postmaster-General has given an undertaking that pastoralists in Western Australia connected to the Carnarvon telephone exchange will be connected, without cost to them, to the Geraldton exchange, 300 miles away, when the Carnarvon exchange is converted to the automatic system. Will this concession be extended to farmers generally who will be faced with heavy expense when their manual exchanges are converted to the automatic system? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>30</page.no>
+                            <time.stamp />
+                            <name.id>K28</name.id>
+                            <electorate />
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">RANKIN, Annabelle</name>
+                            <name role="display">Senator Dame ANNABELLE RANKIN</name>
+                        </talker>
+                        <para>- I think the honourable senator will understand that I cannot give him a definite answer to the question he has asked, but I will certainly take the matter up with the Postmaster-General and get a reply as soon as possible. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>LAOS</title>
+                    <page.no>30</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>30</page.no>
+                            <time.stamp />
+                            <name.id>K69</name.id>
+                            <electorate>WESTERN AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">SIM, John</name>
+                            <name role="display">Senator SIM</name>
+                        </talker>
+                        <para>- My question, which I address to the Leader of the Government in the Senate, refers to the situation in Laos. Will the Minister advise as to the activities of the International Control Commission in the present Laotian situation and as to whether any report has been made by the Commission? Is the Minister aware whether a report has been made by a delegation of South East Asian parliamentarians who visited Laos recently to study the situation? Is the Minister aware of the protests by Australian Labor Party so called peace groups and others to the act of naked North Vietnamese aggression against Laos? Does the evidence suggest that, in the eyes of these people, a war becomes an immoral war only when Communist aggression is opposed? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>30</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- Very properly, I have some information in relation to the situation in Laos but, at the same time- </para>
+                    </talk.start>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>K3W</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">CANT, Hartley</name>
+                                <name role="display">Senator Cant</name>
+                            </talker>
+                            <para>- is this a question without notice? </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>JZQ</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">ANDERSON, Kenneth</name>
+                                <name role="display">Senator ANDERSON</name>
+                            </talker>
+                            <para>- Let me finish. </para>
+                        </talk.start>
+                    </continue>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>K6F</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">CAVANAGH, James</name>
+                                <name role="display">Senator Cavanagh</name>
+                            </talker>
+                            <para>-  I do not think you should buy into such a filthy thing. </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>10000</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">PRESIDENT, The</name>
+                                <name role="display">The PRESIDENT</name>
+                            </talker>
+                            <para>- Order! 1 call the Minister. </para>
+                        </talk.start>
+                    </continue>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>JZQ</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">ANDERSON, Kenneth</name>
+                                <name role="display">Senator ANDERSON</name>
+                            </talker>
+                            <para>- I repeat that, very properly, as the Senate would want me to do, I have some information from the Department of External Affairs in relation to the position in Laos. I was going to add, when I was so rudely interrupted, that I of course cannot make answer to certain aspects of the question that Senator Sim has posed. With regard to those aspects, I would invite the honourable senator to put that part of his question on notice and I will get a reply for him. In relation to the generality of the position in Laos, I can say- </para>
+                        </talk.start>
+                    </continue>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>KPK</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">KENNELLY, Patrick</name>
+                                <name role="display">Senator Kennelly</name>
+                            </talker>
+                            <para>- I desire to raise a point of order. My point of order is that the Minister is not answering the question as posed by Senator Sim. If the Minister desires to make a statement, I suggest that he may do so within the rules of the Senate. I ask the Minister to observe the rules that he would wish every other honourable senator to observe. </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>JZQ</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">ANDERSON, Kenneth</name>
+                                <name role="display">Senator ANDERSON</name>
+                            </talker>
+                            <para>- May I speak to the point of order? </para>
+                        </talk.start>
+                    </continue>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>10000</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">PRESIDENT, The</name>
+                                <name role="display">The PRESIDENT</name>
+                            </talker>
+                            <para>- Yes. </para>
+                        </talk.start>
+                    </continue>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>JZQ</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">ANDERSON, Kenneth</name>
+                                <name role="display">Senator Anderson</name>
+                            </talker>
+                            <para>- Part of the reply that I give will be the information sought by Senator Sim, but there would be other parts of the question that I could not answer. I want those parts to be put on notice. </para>
+                        </talk.start>
+                    </continue>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>10000</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">PRESIDENT, The</name>
+                                <name role="display">The PRESIDENT</name>
+                            </talker>
+                            <para>- The point of order is not upheld. I have pointed out on many occasions that the way in which a Minister answers a question is his responsibility. It does not come within my jurisdiction. </para>
+                        </talk.start>
+                    </continue>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>30</page.no>
+                                <time.stamp />
+                                <name.id>JZQ</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">ANDERSON, Kenneth</name>
+                                <name role="display">Senator ANDERSON</name>
+                            </talker>
+                            <para>- The Australian Government views with concern North Vietnam's persistent violation of the 1962 Geneva Declaration on the Neutrality of Laos and the failure of the Pathet Lao to abide by the tripartite agreement which formed its base. The Australian Government regrets the failure of the Pathet Lao and the North Vietnamese to accept the various proposals for negotiations put by the neutralist Prime Minister of Laos and hopes that North Vietnam, which was a signatory to the 1962 Declaration on the Neutrality of Laos will yet be persuaded to honour the obligation it then assumed. </para>
+                        </talk.start>
+                        <para>On 26th September last, President Nixon stated that the 'United States is concerned at the presence in Laos of 50.000 North Vietnamese soldiers' and that the 'United States has been providing logistic support and some training for the Government in order to avoid Laos falling under Communist domination'. Such support and training, he said, were at the request of the Royal Laotian Government. Both President Nixon and Defence Secretary Laird have stated already that there are no American ground combat troops in Laos. </para>
+                        <para>As to the remainder of the question, which, apparently, excites the Opposition and causes its members some embarrassment, I suggest that the honourable senator put it on the notice paper. </para>
+                    </continue>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>FU 1 AIRCRAFT</title>
+                    <page.no>31</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>31</page.no>
+                            <time.stamp />
+                            <name.id>K6F</name.id>
+                            <electorate />
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">CAVANAGH, James</name>
+                            <name role="display">Senator CAVANAGH</name>
+                        </talker>
+                        <para>- I desire to ask a question of the Minister for Air. Are discussions now proceeding between United States authorities and the Australian Government about cancellation of the contract for the purchase of the Fill aircraft and the non-use of this aircraft after June 1971? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>31</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate />
+                            <party>CP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>-  No discussions are proceeding at this time in regard to the cancellation of the contract for the purchase of the Fill aircraft. </para>
+                    </talk.start>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>31</page.no>
+                                <time.stamp />
+                                <name.id>K6F</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">CAVANAGH, James</name>
+                                <name role="display">Senator Cavanagh</name>
+                            </talker>
+                            <para>- Have they been proceeding? </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>31</page.no>
+                                <time.stamp />
+                                <name.id>JXR</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                                <name role="display">Senator DRAKE-BROCKMAN</name>
+                            </talker>
+                            <para>- A great deal of discussion is proceeding at the present time between our project manager together with Royal Australian Air Force officers and scientists from the Aeronautical Research Laboratories of the Department of Supply and the manufacturers and scientists from the United States of America together with officers of the United States Air Force. The information which is coming back to us in Australia is not yet complete, but 1 believe the Government now has sufficient information to enable it to look at the present situation. The matter is now before the Government. </para>
+                        </talk.start>
+                    </continue>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>AIRCRAFT INDUSTRY</title>
+                    <page.no>31</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>31</page.no>
+                            <time.stamp />
+                            <name.id>KMX</name.id>
+                            <electorate>VICTORIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">GREENWOOD, Ivor</name>
+                            <name role="display">Senator GREENWOOD</name>
+                        </talker>
+                        <para>- My question is directed to the Minister for Supply, ls it a fact, as reported in today's Melbourne Age', that talks have been held between executives of the Boeing Company and representatives of the Commonwealth Aircraft Corporation, Government Aircraft Factories and Hawker de Havilland Australia Pty Ltd? ls it also a fact that these talks have been concerned with the possibility of these Australian companies taking part in the manufacturing programme for certain parts and accessories of the Boeing 747 jumbo jets? If that is so, is the Minister able to give the Senate any indication of the outcome of those talks? If the outcome is favourable to Australia, what sort of advantages will this mean for the Australian aircraft industry? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>31</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- Dealing first with the last part of the honourable senator's question, I would say that the outcome, if successful in the long term, could provide a tremendous fillip to the Australian aircraft industry. It is true that a team of executives from the Boeing company has been and is in Australia. It is true also that members of the team have visited the Commonwealth Aircraft Corporation, Government Aircraft Factories and, I understand, Hawker de Havilland in Sydney. It is equally true that my Department has been in close collaboration with them during these visits. All this began through the collaboration of the Department of Supply with the Department of Trade and Industry and had its genesis really in an Australian delegation which went to the United States for the purpose of looking generally at the situation and then looking in particular at some specialised areas where we could get an offset in relation to our defence activities. </para>
+                    </talk.start>
+                    <para>As a result of the collaboration which has taken place between my Department and the Department of Trade and Industry we have been able to get the necessary information from members of the United States team and to put them in touch with a series of Australian industries which may be in a position to tender for certain equipment. This process is a long hard haul. I do not want to stand in this place and suggest that we can press a button and automatically gain offset orders. The present process is within the pattern which was established so firmly by the former Minister for Defence, Sir Allen Fairhall, some years ago and within the pattern which has been developed, within our capabilities, within my own Department and within the Department of Trade and Industry to get orders as we can and wherever we can. I am grateful for the opportunity to respond to the question because I believe that Australians have the capability and that our Australian industry is becoming more and more capable in terms of technology. I am hopeful that as a result of this visit good will come which will be to the distinct advantage ultimately of the Australian aircraft industry. </para>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>VIETNAM</title>
+                    <page.no>32</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>K19</name.id>
+                            <electorate>TASMANIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">POKE, Albert</name>
+                            <name role="display">Senator POKE</name>
+                        </talker>
+                        <para>- Is the Minister representing the Minister for the Army aware that the Australian Broadcasting Commission television news recently showed an elderly Vietnamese villager being tortured by allied troops with a rag being tied about his face and a sense of suffocation being induced by the pouring of water over this rag? Does the Government condone this behaviour by either Australian troops or our allies in Vietnam? Have any Australian soldiers been involved in this kind of treatment of Vietnamese civilians even if such civilians are regarded as Vietcong suspects? Will further orders be given to Australian troops to the effect that they must avoid any association with the torture of Vietnamese captives? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate />
+                            <party>CP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>- I am not aware of the situation that the honourable senator has raised. It requires a great amount of detailed research so I ask him to put the question on notice and I will obtain an answer for him from the Minister for the Army. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>TRADE</title>
+                    <page.no>32</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>KQN</name.id>
+                            <electorate>SOUTH AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">LAUCKE, Condor</name>
+                            <name role="display">Senator LAUCKE</name>
+                        </talker>
+                        <para>- I direct my question to the Leader of the Government who in this place represents the Minister for Trade and Industry. In view of the current difficulties in finding markets for much of our primary produce will investigation be made into the possibilities of entering into barter arrangements with underdeveloped countries which require various of our surplus primary products but which have not the financial capability to purchase them under normal trading practice? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- It is my understanding that consequent upon legislation which passed through this place special tariff concessions are granted to what we call, I think - I am groping for the word - garden industries; in other words, very small industries in underdeveloped countries. Australia provides quite a definite tariff concession for underdeveloped countries. The honourable senator used the word barter'. That word can have a very wide variety of applications. It is true to say that Australia is very aware of the need for trade with underdeveloped countries, and it is equally true to say that we are doing probably more than any other country in the world in that regard. If I remember the debate at the time, I was able to inform the Senate that we were leading the world in our efforts to make trading arrangements with the kind of countries to which the honourable senator has referred. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>LAUNCESTON AIRPORT</title>
+                    <page.no>32</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>JYA</name.id>
+                            <electorate>TASMANIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">O'BYRNE, Justin</name>
+                            <name role="display">Senator O'BYRNE</name>
+                        </talker>
+                        <para>- My question is addressed to the Minister for Civil Aviation. I do not know whether I need remind the Minister that the passenger terminal at Western Junction which serves Launceston and the northern area of Tasmania equals anything in the Commonwealth in design and appearance but lacks equality in respect of facilities provided in the dining room. Has the Department of Civil Aviation placed restrictions on the services available to air travellers using the Launceston airport dining room concession? If so, will the Minister have an inquiry made into this anomaly with a view to permitting full dining room service being made available at the airport at any time when aircraft are arriving or departing? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>32</page.no>
+                            <time.stamp />
+                            <name.id>JQR</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">COTTON, Bob</name>
+                            <name role="display">Senator COTTON</name>
+                        </talker>
+                        <para>- It has been brought to my notice by many people in Australia that Launceston is extremely fortunate in having the Western Junction terminal. It has been said to me also that Launceston is far more fortunately placed than are many other parts of Australia which come under less favourable notice in relation to development in this field. I am not aware of the problem relating to the dining room which the honourable senator has raised but I can assure him that I will have inquiries made and will do what I can to see that the situation is rectified, because I would bc most upset if the honourable senator could not have a meal when he should have a meal. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>OIL POLLUTION</title>
+                    <page.no>33</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>KBY</name.id>
+                            <electorate>SOUTH AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">YOUNG, Harold</name>
+                            <name role="display">Senator YOUNG</name>
+                        </talker>
+                        <para>- Can the Minister representing the Minister for Education and Science say whether any scientific studies will be made into the possible effects of the present oil spill from the 'Oceanic Grandeur'? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>KBW</name.id>
+                            <electorate>TASMANIA</electorate>
+                            <party>LP</party>
+                            <role>Minister for Works</role>
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">WRIGHT, Reginald</name>
+                            <name role="display">Senator WRIGHT</name>
+                        </talker>
+                        <para>- An incident such as this gives emphasis to the decision made a month ago to have an expert inquiry into the possibility of pollution from oil spills affecting the Great Barrier Reef. It also gives added point to the decision to set up an institute of marine science as was announced in the Prime Minister's policy speech in October last year. One of the first fields to which that institute will be expected to direct its research will relate to the preservation of the Reef in the face of everything, including oil. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>MARGARINE</title>
+                    <page.no>33</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>CJO</name.id>
+                            <electorate>WESTERN AUSTRALIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">WHEELDON, John</name>
+                            <name role="display">Senator WHEELDON</name>
+                        </talker>
+                        <para>- I address to the Minister for Air a question relating to a slim volume entitled 'Tasty Recipes for West Australian Housewives' which is being distributed at present in Western Australia and which bears on the front cover the inscription 'With the compliments of Senator Tom Drake-Brockman'. </para>
+                    </talk.start>
+                    <interjection>
+                        <talk.start>
+                            <talker>
+                                <page.no>33</page.no>
+                                <time.stamp />
+                                <name.id>K1F</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">POYSER, Arthur</name>
+                                <name role="display">Senator Poyser</name>
+                            </talker>
+                            <para>- Are they his recipes? </para>
+                        </talk.start>
+                    </interjection>
+                    <continue>
+                        <talk.start>
+                            <talker>
+                                <page.no>33</page.no>
+                                <time.stamp />
+                                <name.id>CJO</name.id>
+                                <electorate />
+                                <party />
+                                <role />
+                                <in.gov>0</in.gov>
+                                <first.speech>0</first.speech>
+                                <name role="metadata">WHEELDON, John</name>
+                                <name role="display">Senator WHEELDON</name>
+                            </talker>
+                            <para>- It states that the recipes have been collected by the Country Party Women's Auxiliary. Is it not a fact that among the recipes within this book there is one for 'Meg's Biscuits' which calls for <inline font-style="italic">i</inline> lb of melted margarine, another for Flo's Cheesies' which calls for 4 oz of margarine softened, another for 'Pam's Caramel Slice' which calls for 8 oz of margarine or butter and another for 'Em's Salad Dressing' which calls for 6 oz of melted margarine? As the senior member of the Australian Country Party within this chamber will the Minister inform the Senate whether this indicates a change of policy on the part of the Country Party so that now it is supporting margarine interests and not the dairying industry of Western Australia? </para>
+                        </talk.start>
+                    </continue>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>JXR</name.id>
+                            <electorate />
+                            <party>CP</party>
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">DRAKE-BROCKMAN, Thomas</name>
+                            <name role="display">Senator DRAKE-BROCKMAN</name>
+                        </talker>
+                        <para>- When the honourable senator sent around for a copy of the book I thought that he wanted to taste some of the tasties. I will see that he docs not get any more copies. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+            <subdebate.1>
+                <subdebateinfo>
+                    <title>PRIMARY PRODUCTION</title>
+                    <page.no>33</page.no>
+                </subdebateinfo>
+                <question>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>KAS</name.id>
+                            <electorate>VICTORIA</electorate>
+                            <party />
+                            <role />
+                            <in.gov>0</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">WEBSTER, James</name>
+                            <name role="display">Senator WEBSTER</name>
+                        </talker>
+                        <para>- I direct a question to the Leader of the Government in the Senate. I ask: Has the Federal Government been advised of a proposed demonstration march by people from rural areas in Victoria and southern New South Wales to be held in Melbourne later this month? The purpose of the demonstration is to draw the attention of the Australian public to the economic problems which at present confront some primary industries. Whilst I realise that senior Ministers cannot be expected to attend every march of protest which may be conducted throughout Australia, will the Government give an assurance that consideration will be given to having a Federal Minister available to hear the case for greater assistance for primary industry which will be put forward by those attending? </para>
+                    </talk.start>
+                </question>
+                <answer>
+                    <talk.start>
+                        <talker>
+                            <page.no>33</page.no>
+                            <time.stamp />
+                            <name.id>JZQ</name.id>
+                            <electorate />
+                            <party>LP</party>
+                            <role />
+                            <in.gov>1</in.gov>
+                            <first.speech>0</first.speech>
+                            <name role="metadata">ANDERSON, Kenneth</name>
+                            <name role="display">Senator ANDERSON</name>
+                        </talker>
+                        <para>- 1 am not aware whether the Commonwealth has been informed officially of a proposed demonstration nor would I imagine that it would be necessary for any Australian Minister, any Government senator or any Government member on the back bench of the House of Representatives to attend a demonstration to become aware of the affairs of the rural industries in Australia. All I can say is that if certain rural groups are to have a demonstration in Melbourne or anywhere else I am sure it will be an orderly demonstration. Such a demonstration is their inherent right. </para>
+                    </talk.start>
+                </answer>
+            </subdebate.1>
+        </debate>
+    </chamber.xscript>
+</hansard>
